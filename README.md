@@ -1,6 +1,4 @@
 # Fraud Detection Pyspark
- 
-# Fraud Detection using Machine Learning
 
 ## Overview
 This project applies machine learning techniques to detect fraudulent transactions. The model is trained using a dataset containing financial transactions and classifies them as either legitimate or fraudulent.
